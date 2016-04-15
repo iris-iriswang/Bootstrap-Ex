@@ -1,0 +1,21 @@
+html{
+    text-align: center;
+    background-color: #aa764e;
+}
+body{
+    background-color: #aa764e;
+}
+.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+.centerTable {
+    margin: 0px auto;
+}
+.ImgTablePadding{
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
